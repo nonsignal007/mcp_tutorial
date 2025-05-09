@@ -1,0 +1,6 @@
+{
+    "dependencies" : ["."],
+    "graphs" : {
+        "agent" : "./mcp-langgraph.py:make_graph"
+    }
+}
