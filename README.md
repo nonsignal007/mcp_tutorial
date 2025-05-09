@@ -17,7 +17,8 @@ uv sync --all-packages
 
 2. `.env` 파일 만들기
 
-```.env.sample
+```bash
+# .env.sample
 OPENAI_API_KEY=sk-proj...
 NOTION_API_KEY=ntn_...
 # Choose one or both of these depending on your needs:
