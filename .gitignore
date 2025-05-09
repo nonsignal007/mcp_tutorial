@@ -1,0 +1,12 @@
+## python file
+__pycache__
+
+## langgraph file
+.langgraph_api
+
+## env files
+.env
+
+## uv dependence
+.venv
+
